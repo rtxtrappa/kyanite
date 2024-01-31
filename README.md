@@ -10,7 +10,7 @@ Kyanite can be modified to work with a variety of FPS games; however, it is curr
 
 Kyanite uses [YOLOv5](https://github.com/ultralytics/yolov5)
 
-For more information on Kyanite please refer to our [Discord Server](discord.gg/kyanite)
+For more information on Kyanite please refer to our [Discord Server](https://discord.gg/kyanite)
 
 ## Installation
 
