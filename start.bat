@@ -1,0 +1,2 @@
+python kyanite.py
+pause
